@@ -1,0 +1,38 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    background-color: antiquewhite;
+    text-align: center;
+
+    /* fonts */
+    font-family: 'Courier New', Courier, monospace;
+
+    /* Debugging */
+    /* outline: 1px solid red; */
+}
+
+h1 {
+    margin:20px;
+    text-align: center;
+}
+
+.navigation-bar {
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px;
+    text-align: center;
+}
+
+.navigation-bar a {
+    display: inline-block;
+    background-color: coral;
+    padding: 10px 15px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.recipe-description {
+    width: 700px;
+    margin: 10px auto;
+}
